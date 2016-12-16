@@ -4,6 +4,8 @@
 #include <cmath>
 #include <vector>
 
+//Philipp war hier :)
+
 using namespace std;
 std::vector<float> IDCT(std::vector<float> transformedVector)
 {
